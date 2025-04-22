@@ -2,6 +2,9 @@
 
 Argumind is a web application that allows users to chat with multiple AI agents simultaneously and compare their responses.
 
+[![Introduction Video](https://img.youtube.com/vi/qGirlX4-tC4/0.jpg)](https://www.youtube.com/watch?v=qGirlX4-tC4)
+
+
 ## Features
 
 *   **Multi-Agent Chat:** Interact with several AI models (OpenAI, Anthropic, Google Gemini) in parallel.
